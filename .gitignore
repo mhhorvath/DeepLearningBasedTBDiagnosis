@@ -3,4 +3,4 @@ dataset/
 output/
 logs/
 .ipynb_checkpoints/
-
+venv/
